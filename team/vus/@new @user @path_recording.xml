@@ -13,7 +13,6 @@
         <description>Elements repeated until the Virtual User stops.</description>
         <weighted-embedded-action uid="f54f176f-52e7-482f-855a-f6da8609f047"/>
         <weighted-embedded-action uid="c207dee0-5119-4b08-8a13-d95c8997bd24"/>
-        <weighted-embedded-action uid="dc3edc24-ff40-4b31-ab8f-eb019fc69051"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
