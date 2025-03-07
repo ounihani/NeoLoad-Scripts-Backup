@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="true" name="/favicon.ico"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@new @user @path_recording/%resources%/recorded-artifacts/ea9dd4c3-f658-4347-8fc8-5a3a7e2fe16f.zip"
+    slaProfileEnabled="false" thinkTime="168"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ea9dd4c3-f658-4347-8fc8-5a3a7e2fe16f">
+    <embedded-action>946c920d-1bef-44ab-bbac-aefd815e82e4</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/@new @user @path_recording/%resources%/recorded-artifacts/ea9dd4c3-f658-4347-8fc8-5a3a7e2fe16f.zip"
+    recordedResponseCode="404" responseSize="762"
+    serverUid="petstore.octoperf.com" slaProfileEnabled="false"
+    uid="946c920d-1bef-44ab-bbac-aefd815e82e4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_946c920d-1bef-44ab-bbac-aefd815e82e4.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_946c920d-1bef-44ab-bbac-aefd815e82e4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://petstore.octoperf.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not(A:Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;133&quot;, &quot;Chromium&quot;;v=&quot;133&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_ga=GA1.1.631084936.1712336965; _ga_MBJS391V27=GS1.1.1720455842.10.1.1720456984.0.0.0; _gcl_au=1.1.267700250.1739270193; _ga_Q0Q7BY8NRR=GS1.1.1739270193.11.0.1739270201.52.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 404&#xd;
+date: Fri, 07 Mar 2025 11:07:46 GMT&#xd;
+content-type: text/html;charset=utf-8&#xd;
+content-length: 762&#xd;
+content-language: en&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

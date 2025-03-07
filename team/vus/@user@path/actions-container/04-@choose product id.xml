@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="04-Choose product id" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="3c41b789-86c9-45ca-b805-cb30ce58b0a8" weightsEnabled="false">
+    <weighted-embedded-action uid="bc471518-3c47-48d6-ab49-fe6f2d0ab714"/>
+</basic-logical-action-container>

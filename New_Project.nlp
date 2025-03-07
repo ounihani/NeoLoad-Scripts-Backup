@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=New_Project
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=7faea8e5-5742-49e6-966f-50c4000ce961
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/ounihani/NeoLoad-Scripts-Backup.git
